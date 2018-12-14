@@ -1,0 +1,1 @@
+curl -F "file=@C:\Devel\files\bike.mp4" -F "start=0" -F "end=0" -F "repeat=0" localhost:8080/upload
